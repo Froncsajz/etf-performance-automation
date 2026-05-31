@@ -23,3 +23,8 @@ Languages: Python
 Data Engineering / Analytics: Pandas, NumPy (Vectorized operations, cumulative statistics, statistical distributions)
 Data Visualization: Matplotlib (Production-grade financial reporting charts)
 Quantitative Concepts: Geometric Brownian Motion, Volatility Drag, Log-returns, Rolling Statistics (3\sigma Anomaly Detection), Data Leakage/Contamination prevention.
+
+iShares ETF Product,Annualized Return,Annualized Volatility,Sharpe Ratio
+iShares Core S&P 500 (IVV),~11.52%, ~16.02%, ~0.72
+iShares MSCI World (URTH),~12.84%, ~15.48%, ~0.83
+iShares Core Bond (AGG),~4.98%, ~5.30%, ~0.94
